@@ -1,0 +1,92 @@
+\chapter{Results}
+\section{DFT calculations results}
+Using the framework described in section \ref{section: DFT_MC} were calculated values of critical temperature for 20 binary structures containing pure metals, oxides, borides, etc., and 2 gadolinium containing ternary structures.  Obtained values were compared with experimental ones as well as with the results from the theoretical calculations of other groups. Relative error was calculated as follows:
+
+\begin{equation}
+\Delta = \frac{\left| T_{exp} - T_{DFT} \right|}{T_{exp}}
+\end{equation}
+
+As it might be seen from the table \ref{tab:gga_summary} in general GGA + U approach outperforms GGA.  Mean relative error for the unary structures in the case of GGA is 39.5\% for GGA + U is 30.9\%, for oxides 40.4\% and 33.5\%,  for other binary structures (borides, etc.) it is 42.4\% and 25.1\% respectively. 
+
+From the plot \ref{fig:gga} we may conclude that in general GGA tends to underestimate critical temperature with the exclusions of 4 structures, namely: \textit{MnO}, \textit{NiO}, \textit{MnAs}, \textit{EuS}. 
+
+\begin{figure}[H]
+\centering
+\captionsetup{justification=centering,margin=2cm}
+	\includegraphics[width=80mm]{fig/dft_fig/gga_results.png}\includegraphics[width=80mm]{fig/dft_fig/gga_err.png}
+	\caption[Comparison of calculated by GGA results with experimental.]{Left: Comparison of calculated by GGA results with experimental. Right: Absolute errors distribution.}
+\label{fig:gga}
+\end{figure}
+
+ Maximum relative errors of  125 \% are shown in the case of \textit{EuS}, but anyway, the resulting value we may consider pretty reasonable due to the small absolute difference ($16\ K$ and $36\ K$ respectively).  A maximum absolute error of $538\ K$ appears in the case of cobalt, the FM material with the highest known critical temperature.  The lowest absolute difference in calculated and experimental values was shown by three Eu containing structures its $5\ K$ for \textit{Eu-bcc}, $20\ K$ for \textit{EuS} and $2\ K$ for \textit{EuO} which is so far also the material with the lowest relative error of only 5.5\%.
+
+
+
+Results obtained during the GGA+U calculations presented in figure \ref{fig:gga_u}.  The distribution of errors is closer to zero compared to GGA results, and there is no clear tendency to over-or-estimate curie point.  Maximum relative error of 53.4\% in this case shown by \textit{MnO}, while a bit bigger maximum absolute error of $608\ K$ once again by cobalt.  Lowest absolute difference of $15K$ and $23K$ as well as the lowest relative error of 9.4\% and 11.6\% were shown by \textit{MnS} and \textit{FeO} respectively.  Eu-containing structures were not considered in GGA+U calculations due to the absence of a predefined U value. Once again worth mentioning that due to the automated way of calculating, none of Hubbard correction values was calibrated explicitly. Hence we may expect even better results in the case of proper calibration with a linear response method for each particular structure.
+
+\begin{figure}[H]
+\centering
+\captionsetup{justification=centering,margin=2cm}
+	\includegraphics[width=80mm]{fig/dft_fig/gga_u_results.png}\includegraphics[width=80mm]{fig/dft_fig/gga_u_err.png}
+	\caption[Comparison of calculated by GGA+U results with experimental.]{Left: Comparison of calculated by GGA+U results with experimental. Right: Absolute errors distribution.}
+\label{fig:gga_u}
+\end{figure}
+
+
+Results obtained during GGA and GGA + U calculations with relative errors compared to the experimental data presented in the table \ref{tab:gga_summary}.  
+
+
+\begin{table}[H]
+\centering
+\caption{Comparison of calculated by GGA and GGA+U results with experimental.}
+\begin{tabular}{|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{2cm}|}
+\hline 
+Material & ref. & exp. & GGA & GGA+U & $\Delta^{GGA}, \%$ & $\Delta^{GGA+U}, \%$ \\ 
+\hline 
+Fe-bcc & 950 & 1043 & 820 & 648 & 21.4  & 37.9 \\ 
+Co & 1311 & 1388 & 850 & 780 &  38.8 & 43.8 \\ 
+Ni-fcc & 300 & 627 & 315 & 550 & 49.8 & 12.3 \\ 
+Ni-bcc & 250 & 456 & 212 & 590 & 53.5  & 29.4 \\ 
+Gd & 293 & 294 & 94 &- & 68.0 & - \\ 
+Eu-bcc & 111 & 91 & 86 & - & 5.5 & - \\ 
+\hline
+\ce{EuO} & 35 & 69 & 67 & - & 2.9 & - \\ 
+\ce{Fe_3O_4} & - & 858 & 760 & 616 & 11.4  & 28.2 \\ 
+\ce{CrO_2} & 305 & 408 & 280 & 300 & 31.4  & 26.5 \\ 
+MnO & 240 \cite{Archer_2011} & 118 \cite{Roth_1958} & 249 & 55 & 111.0 & 53.4 \\ 
+NiO & 393 \cite{Archer_2011} & 523 \cite{Archer_2011} & 824 & 272 &  57.6 & 48.0 \\ 
+\hline 
+\ce{Fe2B} & 1000 & 1115 & 940 & 1220 & 15.7 & 9.4 \\ 
+CoB & 411 & 477 & 280 & 320 &41.3  & 32.9 \\
+\ce{CoB_2} & 450 & 426 & 330 & 516 &  22.5 & 21.1 \\ 
+\ce{Fe_2P} & - & 306 & 219 & 441 & 28.4  & 44.1 \\ 
+MnBi & - & 630 & 481 & 720 &  23.7 & 14.3 \\ 
+MnSb & - & 587 & 311 & 769 & 47.0 & 31 \\ 
+MnAs & - & 318 & 480 & 440 & 50.9 & 38.4 \\ 
+EuS & - & 16 & 36 & - & 125.0 & - \\ 
+\hline 
+\ce{Gd_2NiSi} & 215 & 251 & 56 & - & 77.7 & - \\ 
+\ce{GdFeSi} & 145 & 135 & 25 & - & 81.5 & - \\ 
+\hline 
+\end{tabular}
+\label{tab:gga_summary}
+\end{table}
+
+
+\section{Novel structures study}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=120mm]{fig/dft_fig/ml_dft_hist.png}
+	\caption[Histogram of estimated critical temperature using ML and DFT.]{Histogram of estimated critical temperature using ML and DFT.}
+\label{fig:dft_hist}
+\end{figure}
+
+
+\section{Discussion}
+
+Why error of 30 \%?
+
+
+
+THIS PART WILL BE EXTENDED AND COMPLETED!

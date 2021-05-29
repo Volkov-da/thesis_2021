@@ -1,0 +1,209 @@
+\begin{thebibliography}{10}
+
+\bibitem{Gutfleisch2010}
+O.~Gutfleisch, M.~A. Willard, E.~Br{\"u}ck, C.~H. Chen, S.~G. Sankar, and J.~P.
+  Liu, ``Magnetic materials and devices for the 21st century: Stronger,
+  lighter, and more energy efficient,'' {\em Advanced Materials}, vol.~23,
+  no.~7, pp.~821--842, 2011.
+
+\bibitem{eerenstein2006multiferroic}
+W.~Eerenstein, N.~Mathur, and J.~F. Scott, ``Multiferroic and magnetoelectric
+  materials,'' {\em nature}, vol.~442, no.~7104, pp.~759--765, 2006.
+
+\bibitem{Ma:2012aa}
+Y.~W. Ma, Y.~H. Lu, J.~B. Yi, Y.~P. Feng, T.~S. Herng, X.~Liu, D.~Q. Gao, D.~S.
+  Xue, J.~M. Xue, J.~Y. Ouyang, and J.~Ding, ``Room temperature ferromagnetism
+  in teflon due to carbon dangling bonds,'' {\em Nature Communications},
+  vol.~3, no.~1, p.~727, 2012.
+
+\bibitem{Liu:2013aa}
+Y.~Liu, N.~Tang, X.~Wan, Q.~Feng, M.~Li, Q.~Xu, F.~Liu, and Y.~Du,
+  ``Realization of ferromagnetic graphene oxide with high magnetization by
+  doping graphene oxide with nitrogen,'' {\em Scientific Reports}, vol.~3,
+  no.~1, p.~2566, 2013.
+
+\bibitem{Shahjahan_2016}
+M.~Shahjahan, I.~Razzakul, and M.~Rahman, ``First-principles calculation of
+  stable magnetic state and curie temperature in transition metal doped iii-v
+  semiconductors,'' {\em Computational Condensed Matter}, vol.~9, pp.~67 -- 71,
+  2016.
+
+\bibitem{Stanev:2018uk}
+V.~Stanev, C.~Oses, A.~G. Kusne, E.~Rodriguez, J.~Paglione, S.~Curtarolo, and
+  I.~Takeuchi, ``Machine learning modeling of superconducting critical
+  temperature,'' {\em npj Computational Materials}, vol.~4, no.~1, p.~29, 2018.
+
+\bibitem{Nelson:2019ui}
+J.~Nelson and S.~Sanvito, ``Predicting the curie temperature of ferromagnets
+  using machine learning,'' {\em Physical Review Materials}, vol.~3,
+  pp.~104405--, 10 2019.
+
+\bibitem{Xu2011InorganicMD}
+Y.~Xu, M.~Yamazaki, and P.~Villars, ``Inorganic materials database for
+  exploring the nature of material,'' {\em Japanese Journal of Applied
+  Physics}, vol.~50, 2011.
+
+\bibitem{osti_4549319}
+``Bibliography of magnetic materials and tabulation of magnetic transition
+  temperatures.,'' 1 1968.
+
+\bibitem{Rajan:2005tl}
+K.~Rajan, ``Materials informatics,'' {\em Materials Today}, vol.~8, no.~10,
+  pp.~38--45, 2005.
+
+\bibitem{Rajan:2015wo}
+K.~Rajan, ``Materials informatics: The materials ``gene''and big data,'' {\em
+  Annual Review of Materials Research}, vol.~45, pp.~153--169, 2021/04/27 2015.
+
+\bibitem{Lookman:2016tw}
+T.~Lookman, F.~J. Alexander, and A.~R. Bishop, ``Perspective: Codesign for
+  materials science: An optimal learning approach,'' {\em APL Materials},
+  vol.~4, p.~053501, 2021/04/27 2016.
+
+\bibitem{Agrawal:2016uy}
+A.~Agrawal and A.~Choudhary, ``Perspective: Materials informatics and big data:
+  Realization of the ``fourth paradigm''of science in materials science,'' {\em
+  APL Materials}, vol.~4, p.~053208, 2021/04/27 2016.
+
+\bibitem{Ward:2016va}
+L.~Ward, A.~Agrawal, A.~Choudhary, and C.~Wolverton, ``A general-purpose
+  machine learning framework for predicting properties of inorganic
+  materials,'' {\em npj Computational Materials}, vol.~2, no.~1, p.~16028,
+  2016.
+
+\bibitem{Ward:2018wr}
+L.~Ward, A.~Dunn, A.~Faghaninia, N.~E.~R. Zimmermann, S.~Bajaj, Q.~Wang,
+  J.~Montoya, J.~Chen, K.~Bystrom, M.~Dylla, K.~Chard, M.~Asta, K.~A. Persson,
+  G.~J. Snyder, I.~Foster, and A.~Jain, ``Matminer: An open source toolkit for
+  materials data mining,'' {\em Computational Materials Science}, vol.~152,
+  pp.~60--69, 2018.
+
+\bibitem{Pedregosa:2012tv}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, E.~Duchesnay, and G.~Louppe,
+  ``Scikit-learn: Machine learning in python,'' {\em Journal of Machine
+  Learning Research}, vol.~12, 01 2012.
+
+\bibitem{Chen_2016}
+T.~Chen and C.~Guestrin, ``Xgboost: A scalable tree boosting system,'' in {\em
+  Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge
+  Discovery and Data Mining}, KDD '16, (New York, NY, USA), pp.~785--794,
+  Association for Computing Machinery, 2016.
+
+\bibitem{Ouyang_2018}
+R.~Ouyang, S.~Curtarolo, E.~Ahmetcik, M.~Scheffler, and L.~M. Ghiringhelli,
+  ``Sisso: A compressed-sensing method for identifying the best low-dimensional
+  descriptor in an immensity of offered candidates,'' {\em Phys. Rev.
+  Materials}, vol.~2, p.~083802, Aug 2018.
+
+\bibitem{Ouyang_2019}
+R.~Ouyang, E.~Ahmetcik, C.~Carbogno, M.~Scheffler, and L.~M. Ghiringhelli,
+  ``Simultaneous learning of several materials properties from incomplete
+  databases with multi-task {SISSO},'' {\em Journal of Physics: Materials},
+  vol.~2, p.~024002, mar 2019.
+
+\bibitem{Ghiringhelli_2015}
+L.~M. Ghiringhelli, J.~Vybiral, S.~V. Levchenko, C.~Draxl, and M.~Scheffler,
+  ``Big data of materials science: Critical role of the descriptor,'' {\em
+  Phys. Rev. Lett.}, vol.~114, p.~105503, Mar 2015.
+
+\bibitem{Ong:2013vd}
+S.~P. Ong, W.~D. Richards, A.~Jain, G.~Hautier, M.~Kocher, S.~Cholia,
+  D.~Gunter, V.~L. Chevrier, K.~A. Persson, and G.~Ceder, ``Python materials
+  genomics (pymatgen): A robust, open-source python library for materials
+  analysis,'' {\em Computational Materials Science}, vol.~68, pp.~314--319,
+  2013.
+
+\bibitem{enum_1}
+G.~L.~W. Hart and R.~W. Forcade, ``Algorithm for generating derivative
+  structures,'' {\em Phys. Rev. B}, vol.~77, p.~224115, Jun 2008.
+
+\bibitem{enum_2}
+G.~L.~W. Hart and R.~W. Forcade, ``Generating derivative structures from
+  multilattices: Algorithm and application to hcp alloys,'' {\em Phys. Rev. B},
+  vol.~80, p.~014120, Jul 2009.
+
+\bibitem{enum_3}
+G.~L. Hart, L.~J. Nelson, and R.~W. Forcade, ``Generating derivative structures
+  at a fixed concentration,'' {\em Computational Materials Science}, vol.~59,
+  pp.~101--107, 2012.
+
+\bibitem{enum_4}
+W.~S. Morgan, G.~L.~W. Hart, and R.~W. Forcade, ``Generating derivative
+  superstructures for systems with high configurational freedom,'' {\em
+  Computational Materials Science}, vol.~136, pp.~144--149, 2017.
+
+\bibitem{Kresse_1996}
+G.~Kresse and J.~Furthm{\"u}ller, ``Efficiency of ab-initio total energy
+  calculations for metals and semiconductors using a plane-wave basis set,''
+  {\em Computational Materials Science}, vol.~6, no.~1, pp.~15--50, 1996.
+
+\bibitem{Kresse_1999}
+G.~Kresse and D.~Joubert, ``From ultrasoft pseudopotentials to the projector
+  augmented-wave method,'' {\em Phys. Rev. B}, vol.~59, pp.~1758--1775, Jan
+  1999.
+
+\bibitem{Perdew_1996}
+J.~P. Perdew, K.~Burke, and M.~Ernzerhof, ``Generalized gradient approximation
+  made simple,'' {\em Phys. Rev. Lett.}, vol.~77, pp.~3865--3868, Oct 1996.
+
+\bibitem{Dudarev_1998}
+S.~L. Dudarev, G.~A. Botton, S.~Y. Savrasov, C.~J. Humphreys, and A.~P. Sutton,
+  ``Electron-energy-loss spectra and the structural stability of nickel oxide:
+  An lsda+u study,'' {\em Phys. Rev. B}, vol.~57, pp.~1505--1509, Jan 1998.
+
+\bibitem{Wang_2006}
+L.~Wang, T.~Maxisch, and G.~Ceder, ``Oxidation energies of transition metal
+  oxides within the $\mathrm{GGA}+\mathrm{U}$ framework,'' {\em Phys. Rev. B},
+  vol.~73, p.~195107, May 2006.
+
+\bibitem{Zhu_2018}
+Y.~Zhu, X.~Kong, T.~D. Rhone, and H.~Guo, ``Systematic search for
+  two-dimensional ferromagnetic materials,'' {\em Phys. Rev. Materials},
+  vol.~2, p.~081001, Aug 2018.
+
+\bibitem{Cococcioni_2005}
+M.~Cococcioni and S.~de~Gironcoli, ``Linear response approach to the
+  calculation of the effective interaction parameters in the
+  $\mathrm{LDA}+\mathrm{U}$ method,'' {\em Phys. Rev. B}, vol.~71, p.~035105,
+  Jan 2005.
+
+\bibitem{Aksyonov_2018}
+D.~Aksyonov, S.~Fedotov, K.~Stevenson, and A.~Zhugayevych, ``Understanding
+  migration barriers for monovalent ion insertion in transition metal oxide and
+  phosphate based cathode materials: A dft study,'' {\em Computational
+  Materials Science}, vol.~154, pp.~449--458, 2018.
+
+\bibitem{Lines_1965}
+M.~E. Lines and E.~D. Jones, ``Antiferromagnetism in the face-centered cubic
+  lattice. ii. magnetic properties of mno,'' {\em Phys. Rev.}, vol.~139,
+  pp.~A1313--A1327, Aug 1965.
+
+\bibitem{Roth_1958}
+W.~L. Roth, ``Magnetic structures of mno, feo, coo, and nio,'' {\em Phys.
+  Rev.}, vol.~110, pp.~1333--1341, Jun 1958.
+
+\bibitem{Pepy_1974}
+G.~Pepy, ``Spin waves in mno; from 4$\,^{\circ}$k to temperatures close to
+  tn,'' {\em Journal of Physics and Chemistry of Solids}, vol.~35, no.~3,
+  pp.~433--444, 1974.
+
+\bibitem{Velasco_2007}
+S.~Velasco and F.~Rom{\'a}n, ``Determining the curie temperature of iron and
+  nickel,'' {\em The Physics Teacher}, vol.~45, pp.~387--389, 09 2007.
+
+\bibitem{Matsumoto_2020}
+M.~Matsumoto and H.~Akai, ``Calculating curie temperatures for rare-earth
+  permanent magnets: Ab initio inspection of localized magnetic moments in
+  $d$-electron ferromagnetism,'' {\em Phys. Rev. B}, vol.~101, p.~144402, Apr
+  2020.
+
+\bibitem{Archer_2011}
+T.~Archer, C.~D. Pemmaraju, S.~Sanvito, C.~Franchini, J.~He, A.~Filippetti,
+  P.~Delugas, D.~Puggioni, V.~Fiorentini, R.~Tiwari, and P.~Majumdar,
+  ``Exchange interactions and magnetic phases of transition metal oxides:
+  Benchmarking advanced ab initio methods,'' {\em Phys. Rev. B}, vol.~84,
+  p.~115114, Sep 2011.
+
+\end{thebibliography}

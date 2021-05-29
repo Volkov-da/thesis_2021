@@ -1,0 +1,16 @@
+\babel@toc {russian}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces Summary of the ferromagnetic materials applications.}}{11}{table.caption.4}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Domain wall thickness}}{20}{table.caption.13}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Property statistics functions\relax }}{27}{table.caption.16}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces List of descriptors used in this work\relax }}{27}{table.caption.17}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces KRR models performance with respect to different Kernels\relax }}{33}{table.caption.23}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces RF models performance with respect to the features space\relax }}{35}{table.caption.28}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces XGBoost performance with respect to the features space\relax }}{38}{table.caption.32}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces Summary of the best models performance\relax }}{42}{table.caption.37}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Comparison of calculated by GGA and GGA+U results with experimental.\relax }}{54}{table.caption.50}%
