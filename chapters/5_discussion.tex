@@ -1,0 +1,30 @@
+\chapter{Discussion}
+\section{Results reasoning}
+Results obtained in this work, in general, were quite expected. Estimated values of critical temperature obtained by GGA and GGA + U on average differed from the experimental on 40\% and 30\%, respectively. The reasoning for such deviation comes from the following sources of errors. First of all, despite the fact that DFT theoretically is exact in practice accuracy of calculations is strongly dependent on the choice of exchange-correlation functional. General gradient approximation (GGA) used in this work tends to show good accuracy for the majority of materials properties still has known shortages in magnetic calculations. The estimation of magnetic exchange coupling was discussed in several theoretical studies. For instance, in ref. [29] was reported statistical error of 40\% for the number of transitional metals complexes containing Fe, Co, Mn. At the same time, other work reported an even bigger divergence of almost 11 times compared to experimental values [30]. Secondly used in this work Heisenberg spin model still leave out a lot of complexity of real material due to a number of simplifications and approximations. Thirdly inaccuracies might appear on a stage of Monte Carlo simulations. All the materials were treated as purely isotropic, which might lead to a certain level of errors. Also, we cannot fully deny the possible contribution of size effects since the finite size of modeled cube. Finally, it is worth admitting that taking into account all possible factors by theoretical methods is beyond our control. Magnetism is an extremely complex phenomenon in which properties should be modeled on all size scales starting from electronic and atomistic, ending up on a macroscale level.  Even a small amount of unaccounted impurities or defects can cause a significant scatter in the experimental results, but at the same time not be reflected in the existing theoretical models.
+
+
+
+\section{Future Work}
+
+The project presented in this master's thesis is planned to be continued.
+Part of the work related to DFT + MC  is planned to be additionally tested concerning exchange-correlation energy functionals. The nearest future planned to run tests using Local-density approximations (LDA) and LDA + U functionals. Additionally, it is planned to develop an end-to-end methodology for magnetic anisotropy energy calculations which further might be considered for more accurate Monte Carlo simulations. The prepared python package is also planned to be maintained and improved with respect to parallelization and memory usage.
+
+Part of the work related to the data-driven estimation of critical temperature also seems to be extremely promising. Despite the absence of structural information in descriptors, it already shows good predictive power. Inclusion of such information into the descriptors is already well-established practice by the source of various fingerprints. At the same time, the usage of modern architectures of Neural Networks (i.e., Graph Convolutional NN) may lead to stunning results frequently outperforming classical electronic structures calculations and obviously using much fewer computational resources. The only stopping factor here is the absence of any reliable and sufficiently big magnetic structures database at the moment. Fortunately, this only the matter of time, and sooner or later author of this work or one of many groups in the world will prepare it.
+
+\section{Conclusion}
+\begin{enumerate}
+\item In this work, a methodology for calculating the critical magnetic temperature using DFT and subsequent Monte Carlo simulations based on the Ising spin model was developed and tested. Results obtained during these calculations showed an average divergence of ~30\% with experimental values but yet in the majority of cases allows to distinguish materials with high critical temperature.
+
+\item As a competitive approach, several regression machine learning models have been trained on the descriptors solely based on the chemical composition of the material. Nevertheless, the best-trained model showed high predictive power with the $R2$ value of $0.87$ and MAE of $57\ K$, making this approach comparable in accuracy to demanding electronic structure calculations.
+
+\item Both approaches have been applied to determine the critical temperature of 55 newly predicted structures with promising magnetic properties. For three of the studied structures, a high value of the critical temperature was estimated, which allows us to assume their possible technological potential.
+
+\item Two declared methodologies are implemented as a python library. A simple interface and setting most of the required numeric parameters by default minimizes the need for end-user management and, in most cases, fully automates the calculations.
+
+\end{enumerate}
+
+
+
+
+
+

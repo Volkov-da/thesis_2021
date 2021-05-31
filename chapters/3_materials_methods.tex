@@ -1,6 +1,7 @@
 \chapter{Materials and Methods}
-\section{Data driven estimation of critical temperature}
 
+\section{Data driven estimation of critical temperature}
+\label{section:ML_models}
 This work was mainly inspired by the publications related to the ML-driven estimation of the critical temperature for the superconducting  \cite{Stanev:2018uk} and ferromagnetic materials \cite{Nelson:2019ui}.
 In the first work \cite{Stanev:2018uk} were described several ML models for the estimation of the superconducting critical temperature over the 18000 samples dataset. The ML pipeline presented in this work consists of two models working sequentially. The first model classifies superconductors into three groups (Fe-based, cuprates, and low $T_C$ superconductors). While the second one solves the regression problem for the particular class, in other words predicting the $T_C$.  As it was reported classification models that worked solely on chemical composition information showed strong predictive power with an accuracy score of 92\%. Regression Random Forest model worked already with compositional and structural descriptors. It showed $R^2$ score of 0.85, 0.80 and 0.74 for these classes respectively
 
@@ -265,6 +266,7 @@ Max Error (K) & 516.3 & 540.5 & 601.3 \\
 As it might be seen from the table \ref{tab:rf_results} in general RF outperform the best KRR model and shows good predictive power. Error distribution (Figure \ref{fig:rf_results} right top) shows the relation between experimental and predicted values of critical temperature $(T_C^{exp} - T_C^{pred})$. In our case It is highly symmetrical around zero and might be considered as Gaussian type. From this fact we can conclude that RF model has no systematic bias towards overestimation or underestimation. The distribution of relative errors $(T_C^{exp} - T_C^{pred}) / T_C^{exp}$ showed only for the compounds with $T_C>300K$ since for the compounds with low TC relatively small absolute error may lead to a huge relative one (i.e. for $T_C^{exp} = 1 K$ ; $T_C^{pred} = 15 K$, 1400\% error). Relative error distribution already not so symmetrical but it might be explained due to the low number (136) of samples in it.
 
 \subsubsection{XGBoost alghoritm}
+\label{section: XGBoost}
 
 XGBoost is another ensemble algorithm based on decision trees, which utilizes a gradient boosting (GB) framework. Initially, it was designed for small-to-medium structured or tabular datasets, which is exactly the case in this work.
 Gradient boosting (GB) is an ML technique very similar to RF.
@@ -376,32 +378,11 @@ There 2 features related to the number of electrons on d-shell $\overline{N^d}, 
 Also, there 2 descriptors related to lattice volume $\overline{V}, \widetilde{V}$, this already not so trivial, but probably related to the phenomena of the exchange coupling which is strongly dependent on the number of nearest neighbours in the crystal structure.
 Comparing the most valuable features extracted from KRR, RF, and XGBoost with the features computed from SISSO we may say that they have a lot in common despite the fact that all these algorithms use different mathematical approaches and approximations.
 
-\subsection{Conclusion}
-This part of the work described the construction of several ML models in order to predict the Curie critical temperature of ferromagnetic materials based solely only on their chemical composition. Final summary of the best models’ performance in compare with reference work presented in table \ref{tab:best_models_summary}. 
 
-\begin{table}[H]
-\centering
-\caption{Summary of the best models performance}
-\begin{tabular}{|p{2.5cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{1.8cm}|}
-\hline 
-Metrics & SISSO & KRR & RF & XGB & RF (ref.) & KRR (ref.) \\ 
-\hline 
-$R^2 (test)$ & 0.618 & 0.793 & 0.833 & 0.845 & 0.87 & 0.72 \\ 
-$R^2 (cross.val)$ & - & 0.787 & 0.828 & 0.837 & 0.81 & - \\ 
-MAE (K) & 138 & 84 & 71 & 69 & 57 & - \\ 
-RMSE (K) & 171 & 121 & 109 & 105 & - & - \\ 
-Max Error (K) & 761 & 642 & 516 & 595 & - & - \\ 
-\hline 
-\end{tabular} 
-\label{tab:best_models_summary}
-\end{table}
-
-It is worth to mention that descriptors used in this work are different from the one used in the reference. The highest accuracy demonstrated by the XGBoost model with $R^2$ and mean absolute error of 0.845 and 69 K respectively on the testing set. But the lowest maximum error is shown by the RF.
-A serious drawback of considered features is the absence of any structural information which makes it impossible to distinguish between two compositions with similar stoichiometry. But after all this work might be considered as a second small step (after ref.  \cite{Nelson:2019ui} toward the ML-driven computational search for novel magnetic materials.
 
 
 \cleardoublepage
-\section{DFT + MC calculations}
+\section{DFT + MC calculations of critical temperature}
 
 \label{section: DFT_MC}
 
@@ -439,7 +420,7 @@ Of course, usage of Huburd correction values without proper calibration, for ins
 \subsection{Hamiltonian fitting}
 
 \subsubsection{Building the system}
-The energies calculated at the previous stage for the relaxed parental FM and AFM configurations make it possible to determine the exchange coupling parameters $(J_{ij})$. For these purposes initially carried out mapping of magnetic neighbors in every generated spin configuration utilizing \textit{pymatgen} \cite{Ong:2013vd} and \textit{siman} \cite{Aksyonov_2018} libraries . This stage performed not only mapping of magnetic nearest (mNN) and next-nearest magnetic neighbors (mNNN), namely first and second coordination spheres, the search is extended to the higher-order coordination spheres up to the number of generated spin configurations.
+The energies calculated at the previous stage for the relaxed parental FM and derivative AFM configurations make it possible to determine the exchange coupling parameters $(J_{ij})$. For these purposes initially carried out mapping of magnetic neighbors in every generated spin configuration utilizing \textit{pymatgen} \cite{Ong:2013vd} and \textit{siman} \cite{Aksyonov_2018} libraries . This stage performed not only mapping of magnetic nearest (mNN) and next-nearest magnetic neighbors (mNNN), located in the first and second coordination spheres respectively, the search is extended to the higher-order coordination spheres up to the number of generated spin configurations.
 Hence for any FM system with a number of generated AFM spin configurations equal to $N$, mapping was done up to the $N-th$ coordination sphere in every structure (e.g., for 6 generated AFM structures, mapping of magnetic neighbors performed up to the 6-th coordination spheres).
 
 Mapping procedure returns a series of coefficients $(n_{ij})$ which, with the addition of calculated energies $(E_{FM/AFM})$ , allows building a system of equations. Produced system includes $N + 1$ equations ($1$ FM + $N$ AFM configurations) and $N + 1$ variables $(E_g, J_1, ... J_n)$. 
@@ -447,16 +428,16 @@ Mapping procedure returns a series of coefficients $(n_{ij})$ which, with the ad
 \begin{equation}
   \left\{
     \begin{aligned}
-      & E_g + n_{11}J_1 \hdots + n_{1N} J_n = E_{FM}\\
-      & E_g + n_{21}J_1 \hdots + n_{2N} J_n = E_{AFM1}\\
+      & E_g + n_{11}J_1 + \hdots + n_{1N} J_n = E_{FM}\\
+      & E_g + n_{21}J_1 + \hdots + n_{2N} J_n = E_{AFM1}\\
       &\vdots\\
-      & E_g + n_{N1} J_1 \hdots + n_{NN}J_n = E_{AFM_N}
+      & E_g + n_{N1} J_1 + \hdots + n_{NN}J_n = E_{AFM_N}
     \end{aligned}
   \right.
 \end{equation}
 
 
-Its might be illustrated on the toy example from figure \ref{fig:spinupdown}. Suppose we have a 2D structure where red atoms have spin-up and blue – spin down.  As a 1st nearest neighbors of our red central atom, we have 4 blue atoms with an antiparallel spin which means that sign of their interaction will be a minus, building the second coordination sphere we can see that all 2nd neighbors have the same spin with the central one, therefore, the sign of their interaction will be plus. 
+Its might be illustrated on the toy example from figure \ref{fig:spinupdown}. Suppose we have a 2D structure with a spin-up red atoms and spin-down blue atoms.  As a 1st nearest neighbors of our spin-up central atom, we have 4 atoms with an antiparallel spin which means that sign of their interaction will be negative. Building the second coordination sphere we can see that all 2nd neighbors have the same spin with the central one, therefore, the sign of their interaction will be positive. 
 
 \begin{figure}[H]
 \centering
@@ -492,8 +473,7 @@ n_{21} & \hdots &  n_{NN}
 
 Otherwise, the less stable (with the highest energy) AFM configuration is excluded from the calculations until the equations system becomes solvable or runs out of the structures. This method has obvious disadvantages. Firstly quite frequently from the mapped coefficients, it's impossible to build any solvable system, and the calculations fail. Secondly, excluding less favorable spin configuration from the solution, one by one, frequently leads to a minimal possible system $2\times2,$ which returns only the $J_1$ parameter and thus makes the results poorly representative for the further $T_C$ estimation.
 
-The second methodology utilizes a common strategy applicable for overdetermined systems, namely the least-squares method. In this study, fitting was done starting from the $N \times N$ system, continually decreasing the number of taken into account variables up to the $N \times 2$ $(E_g, J_1)$. Such an approach allows to better distinguish strong and weak exchange correlations in the materials showing how every group of magnetic atoms located on a particular coordination sphere contribute to the final exchange values. Worth mentioning that contrary to the previous method this approach is extremely sensitive to the quality of all the produced AFM structures. In other words,  any poorly relaxed or disordered physically meaningless structure that might appear in the system won't be excluded at any stage and strongly affect all the produced results.
-
+The second methodology utilizes a common strategy applicable for overdetermined systems, namely the least-squares method. In this study, fitting was done starting from the $N \times N$ system, continually decreasing the number of taken into account variables up to the $N \times 2$ $(E_g, J_1)$. Such an approach allows to better distinguish strong and weak exchange correlations in the materials showing how every group of magnetic atoms located on a particular coordination sphere contribute to the final exchange values. Worth mentioning that contrary to the direct system solving this approach is extremely sensitive to the quality of all the produced AFM structures. In other words,  any poorly relaxed or disordered physically meaningless structure that might appear in the system won't be excluded at any stage and strongly affect all the produced results.
 For clarity let's consider a couple of examples, namely FM Mn and Eu oxides.
 
 \subsubsection{Example 1}
@@ -531,7 +511,7 @@ For the case of \ce{EuO} were generated 3 unique AFM cells (see figure \ref{fig:
 \end{multicols}
 
 
-Solution of the system allows calculating exchange coupling parameters for the first and second coordination spheres $(J_1, J_2)$.  As it might be seen from the calculated values, in this case, exchange couplings have the order of the few meV. This fact once again points out the critical importance of extremely accurate relaxation and energy estimation steps. The calculated value of critical temperature $67K$ is in perfect agreement with the experimental value of $69 K$.
+Solution of the system allows calculating exchange coupling parameters for the first and second coordination spheres $(J_1, J_2)$.  As it might be seen from the calculated values, in this case, exchange couplings have the order of meV. This fact once again points out the critical importance of extremely accurate relaxation and energy estimation steps. The calculated value of critical temperature $67K$ is in perfect agreement with the experimental value of $69 K$.
 
 \subsubsection{Example 2}
 
@@ -576,7 +556,7 @@ One more important point here is the quite a noticeable difference between the e
 
 As a final step of the workflow values of exchange coupling parameters $(J_{ij})$ used to study the material transition from ferromagnetic (FM) to paramagnetic (PM) state. It is done by the source of constrained Monte Carlo (MC) metropolis algorithm as implemented in Vampire software which allows to carry out calculations of the equilibrium temperature-dependent magnetic properties. Vampire contains a predefined functionality to estimate critical temperature by performing a temperature sweep and calculating the average magnetization, returning the classic M-T curve.
 
-For all the systems, exchange energy was considered isotropic (equal in all directions). To neglect finite-size and surface effects in a bulk material was chosen sufficiently large dimensionality of $10 \times 10 \times 10\ nm^3$ and defined periodic boundary conditions in all three spatial directions.  Temperature range of modeling was specified from $0$ to $1500\ K$ with an increment of $25\ K$ for each temperature done $10^5$ equilibration time steps (which is needed to reach thermal equilibrium in the system) followed by the $10^5$ loop-time steps, which is already counted to the average of magnetization as it is illustrated in figure \ref{fig:time_magnetization}.  Quite a large number of equilibration steps explained due to known equilibration-temperature dependence which tends to drastically slow down close to the Curie point. Specified numbers chosen heuristically but yet yields reasonable results for the most of systems.
+For all the systems, exchange energy was considered isotropic (equal in all directions). To neglect finite-size and surface effects in a bulk material was chosen sufficiently large dimensionality of $10 \times 10 \times 10\ nm^3$ and defined periodic boundary conditions in all three spatial directions.  Temperature range of modeling was specified from $0$ to $1500\ K$ with an increment of $25\ K$ for each temperature done $10^5$ equilibration time steps which is needed to reach thermal equilibrium in the system followed by the $10^5$ loop-time steps, which is already counted to the average of magnetization as it is illustrated in figure \ref{fig:time_magnetization}.  Quite a large number of equilibration steps explained due to known equilibration-temperature dependence which tends to drastically slow down close to the Curie point. Specified numbers chosen heuristically but yet yields reasonable results for the most of systems.
 The bigger number of averaging steps, in general, lead to more smooth data but obviously requests more computational resources.
 
 \begin{figure}[H]
@@ -587,7 +567,7 @@ The bigger number of averaging steps, in general, lead to more smooth data but o
 \label{fig:time_magnetization}
 \end{figure}
 
-As a result of running MC simulation returns data for the magnetization-temperature curve as it is shown in figure \ref{fig:mt_curve}.  
+As a result of running MC simulation returns data for the magnetization-temperature curve as it is shown in figure \ref{fig:mt_curve}, from which one may determine the critical temperature as point with a maximum gradient. 
 
 \begin{figure}[H]
 \centering
@@ -598,7 +578,7 @@ As a result of running MC simulation returns data for the magnetization-temperat
 \end{figure}
 
 \subsection{End-to-end pipeline details} 
-All pieces of the code for integration with side packages and data pre/post-processing produced during the work were formed into a complete end-to-end Python-based package. The main goal of the prepared package was to automate all the stages of the critical temperature calculations, eliminating the need for user control and making it usable for any FM materials. Schematically algorithm shown in figure \ref{fig:End-to-end pipeline scheme}.
+All pieces of the code for integration with side packages and data pre/post-processing produced during the work were formed into a complete end-to-end Python-based package. The main goal of the prepared package was to automate all the stages of the critical temperature calculations, eliminating the need for user control and making it usable for any FM material.  Schematically algorithm shown in figure \ref{fig:End-to-end pipeline scheme}.
 
 \begin{figure}[H]
 \centering

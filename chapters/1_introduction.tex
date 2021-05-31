@@ -1,5 +1,6 @@
 \chapter{Introduction}
 
+\section{Background}
 Ferromagnetic materials (FM) known to humanity for more than 2000 years. It's been a long time since the first samples of “adamants” also known as “lodestones” amazed our ancestors by their unique properties. Since then, this class of materials was thoroughly analyzed and described by many generations of brightest scientists. But yet even in the 21st century, we still have many questions to answer to understand this mysterious phenomenon fully. This work will be attempted to disclose one of the properties characteristic of magnetic structures. Namely, magnetic temperature depending ordering, also known as critical temperature or Curie temperature. With the main goal of applying developed methodology for the search of new promising structures.
 
 
@@ -51,3 +52,24 @@ commercially available hard magnets are mainly ferrites, Alnico, \ce{SmCo_5} and
 Nowadays, the rare-earth (REEs) FM became the most critical magnets in the market. Their dominating role might be explained due to their excellent magnetic properties at room temperature and their relatively low cost per energy-density unit. However, supply chain issues in recent years led to both prices and availability unpredictable issues.
 
 The demand for hard magnetic materials becomes even bigger taking into account their numerous commercial applications in data storage, engines, actuators, generators, wind turbines, and hybrid cars. Not only increased demand but limited export from China has led to increased prices for these materials in the last years. These problems are forcing both industry and science to pay attention to the opportunities of developing new types of FM materials.
+
+\section{Aim and Goals}
+
+The ultimate goal of this study is to search for new technologically promising magnetic compositions. Considering the capabilities of modern evolutionary algorithms that allow identifying stable structures with a high magnetic moment, the problem of automated determination of the critical magnetic temperature (Curie point) remains unsolved. To solve the indicated problem and empower the end-user with a straightforward methodology for its calculation, the following research tasks are indicated:
+
+
+\begin{enumerate}
+\item Development and implementation of the critical magnetic temperature calculation methodology based on DFT approaches followed by Monte Carlo simulations.
+\item Training of several classical ML models to solve a regression problem of critical temperature estimation based on the available experimental data.
+\item Testing of the developed methods on compositions with known experimental and theoretical values of Curie temperature.
+\item Computational search for new compositions with high magnetic properties using evolutionary algorithm USPEX.
+\item Benchmarking of the newly find structures concerning their critical temperature to
+determine the most promising from the technological viewpoint.
+\end{enumerate}
+
+\section{Outline}
+
+Chapter 1 contains the current section with a problem background and formulation of the project objectives. Chapter 2 contains a general overview of the ferromagnetic materials properties and theoretical models used for this study. Chapter 3 describes the methodology used in this work, namely the construction of several machine learning (ML) models over available experimental data and calculations based on density function theory (DFT) followed by Monte-Carlo (MC) simulations. Chapter 4 is dedicated to the discussion of the results obtained by both methods. Finally, chapter 5 summarizes the research outcome and outlines possible future studies.
+
+
+
