@@ -149,51 +149,6 @@ structures induce dangling bonds with unpaired electrons \cite{Ma:2012aa, Liu:20
 potentials are usually compounds containing Fe, Co, or Ni.
 
 
-\subsection{Ferromagnetic Phase Transition}
-General description of FM to paramagnetic phase transitions might be given with free energy approach (Landau Free-Energy Theory) by writing out a series expansion for the
-free energy close to Curie temperature ($T_C$). The magnetic free energy is defined
-as a power series in the order of magnetization $M$. By only considering the symmetries, the series must only contain terms that respect the symmetry of the order parameter:
-
-\begin{equation}
-F(M)=F_0+\alpha M^2 + \beta M^4 + \cdots
-\end{equation}$F$ is minimized with respect to $M$:
-\begin{equation}
-\frac{\partial f}{\partial M}=2 \alpha M+ 4 \beta M^3 = 0
-\end{equation}
-
-\begin{equation}
-\left\{
-\begin{aligned}
-&M = 0, \\
-&M^2 = -\frac{\alpha}{2 \beta}.
-\end{aligned}
-\right.
-\end{equation}
-
-In Figure~\ref{fig:landau}a, the symmetry changes precisely at $T = T_C$ and the transition occurs when $\alpha$ changes its sign. When $T <T_C$, there are two energy minima $M= \pm M_s$ that indicate $\alpha <0$ and $\beta >0$. When $T >T_C$, a single energy minimum $M = 0$ indicates $\alpha >0$ and $\beta >0$. The temperature dependence of $\alpha$ can be identified as:
-
-\begin{equation}
-\alpha (T) =\alpha_0 \left( \frac{T - T_C}{T_C} \right)
-\end{equation}
-
-With the presence of an external magnetic field $H$, a linear term is added as:
-
-\begin{equation}
-F(M)=\alpha M^2 + \beta M^4 + \cdots - \mu H M
-\end{equation}
-
-As shown in Figure~\ref{fig:landau}b, when an external magnetic field breaks the symmetry, the global minimum of $F(M)$ changes from two minima to a single one.
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=80mm]{fig/review/landau1.png}\includegraphics[width=80mm]{fig/review/landau2.png}
-	\caption[Sketch of Landau free energy.]{Sketch of Landau free energy}
-\label{fig:landau}
-\end{figure}
-
-Therefore, we can see that even when $T >T_C$, a paramagnetic phase of material, which has no macroscopic magnetization, can also be attracted with the presence
-of an externally applied magnetic field.
-
 \section{Domain and Domain Walls}
 In FM, materials, exchange, and dipolar couplings are competing.
 The equality between both interactions leads to a state in which the local macroscopic magnetization is extremely small. Still, an almost parallel alignment of the moments is preserved at short distances.
@@ -288,7 +243,7 @@ easy axis;
 
 \end{itemize}
 
-\section{Magnetocrystalline anisotropy}
+\subsection{Magnetocrystalline anisotropy}
 The magnetocrystalline anisotropy primarily arises from spin-orbit coupling.
 When an external field tries to reorient the spin of an electron, the orbit of that electron
 also tends to be reoriented. But the orbit is strongly coupled to the lattice and therefore
@@ -353,7 +308,3 @@ S_{z}^j
 \end{equation}
 
 Described model will be used in this work for the Curie temperature calculation using DFT followed by Monte Carlo simulation.
-
-\section{Monte Carlo simulations}
-
-Metropolis Monte-Carlo

@@ -95,7 +95,7 @@ As such it was made a decision to establish criteria to exact a single value of 
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=160mm]{fig/ml_fig/tc_distrib.png}
-	\caption[$T_C$ distribution histogram over 2557 samples]{Distribution of critical temperature over 2557 samples.}
+	\caption[Critical temperature distribution histogram over 2557 samples]{Distribution of critical temperature over 2557 samples.}
 \label{fig:tc_distrib}
 \end{figure}
 
@@ -109,7 +109,7 @@ As it was already mentioned the size of our data is relatively small. This fact 
 \centering
 \captionsetup{justification=centering,margin=2cm}
 	\includegraphics[width=160mm]{fig/ml_fig/model_eval.png}
-	\caption[Schematic process of cross-validation process and final model evaluation on the test subset]{Schematic process of cross-validation process and final model evaluation on the test subset.}
+	\caption[Scheme of cross-validation process followed by final model evaluation on the test subset.]{Scheme of cross-validation process followed by final model evaluation on the test subset.}
 \label{fig:ml_model_eval}
 \end{figure}
 
@@ -188,14 +188,6 @@ Best $R^2$ and $RMSE$ scores were achieved by the Laplacian Kernel which is also
 The lowest value of maximum error was given by the simplest linear Kernel.
 Performance of different KRR models shown on scatter plots in Figure \ref{fig:krr_results}, and also in table \ref{tab:krr_results}.
 
-\begin{figure}[H]
-\centering
-\captionsetup{justification=centering,margin=2cm}
-	\includegraphics[width=160mm]{fig/ml_fig/krr_results.png}
-	\caption[Comparison of experimental $(T_C^{exp})$ and predicted values $(T_C^{ML})$ for different Kernels.]{Comparison of experimental $(T_C^{exp})$ and predicted values $(T_C^{ML})$ for different Kernels.}
-\label{fig:krr_results}
-\end{figure}
-
 \begin{table}[H]
 \centering
 \caption{KRR models performance with respect to different Kernels}
@@ -214,13 +206,23 @@ Max Error (K) & 598.1 & 783.4 & 795.6 & 642.05 \\
 \label{tab:krr_results}
 \end{table}
 
+\begin{figure}[H]
+\centering
+\captionsetup{justification=centering,margin=2cm}
+	\includegraphics[width=160mm]{fig/ml_fig/krr_results.png}
+	\caption[Comparison of experimental and predicted values of Curie temperature for different Kernels.]{Comparison of experimental $(T_C^{exp})$ and predicted values $(T_C^{ML})$ for different Kernels.}
+\label{fig:krr_results}
+\end{figure}
+
+
+
 \subsubsection{Random forest algorithm}
 
 Random forest (RF) is one of the most powerful, versatile, and widely used ML methods. RF, like its name implies, consists of a large number of individual decision trees (see Figure \ref{fig:rf_scetch}) that operate as an ensemble. Each individual tree in the RF trains only on a random part of the training set samples and also only on the randomly selected subspace of descriptors (i.e. every tree in RF learns on different samples and features). This approach allows to build a large number of relatively uncorrelated models (trees) which operating as a committee will outperform any of the individual constituent models.
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=160mm]{fig/ml_fig/rf_scetch.png}
+	\includegraphics[width=140mm]{fig/ml_fig/rf_scetch.png}
 	\caption[Single Tree model with depth 4 for the regression problem under consideration.]{Single Tree model with depth 4 for the regression problem under consideration.}
 \label{fig:rf_scetch}
 \end{figure}
@@ -367,7 +369,7 @@ Figure \ref{fig:rf_features} shows the histogram of the top 15 most valuable fea
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=160mm]{fig/ml_fig/rf_features.png}
+	\includegraphics[width=140mm]{fig/ml_fig/rf_features.png}
 	\caption[RF feature importance histogram.]{RF feature importance histogram.}
 \label{fig:rf_features}
 \end{figure}
@@ -394,7 +396,7 @@ On a stage of development and validation of algorithm, this work used FM structu
 
 \subsection{Generation of spin configurations}
 From obtained structural information of a parent FM cell, one may generate various derivative structures with specified AFM properties (i.e., ratio of spin-up and spin-down atoms is 1:1) utilizing existing algorithms for derivative structure generation. 
-For these purposes, currently used open-source python library, \textit{pymatgen} \cite{Ong:2013vd} with integrated derivative structure generator \textit{enumlib} \cite{enum_1, enum_2, enum_3, enum_4}. Based on symmetry analysis its generates different AFM spin configurations from the parental FM. One of the big advantages of the current derivative structure enumerator is the possibility of eliminating the heuristics-based approach. On the contrary of producing a huge number of randomly oriented spin configurations with the hope of getting the one that is close enough to FM ground state, it makes a rigorous and thus reliable search for all possible spin states. The number of obtained spin configurations we may consider almost exhaustive, which is also proven in a series of studies by comparing with experimental data. 
+For these purposes, currently used open-source python library, \textit{pymatgen} \cite{Ong:2013vd} with integrated derivative structure generator \textit{enumlib} \cite{enum_1, enum_2, enum_3, enum_4}. Based on symmetry analysis its generates different AFM spin configurations from the parental FM. One of the big advantages of the current derivative structure enumerator is the possibility of eliminating the heuristics-based approach. On the contrary of producing a huge number of randomly oriented spin configurations with the hope of getting the one that is close enough to FM ground state, it makes a rigorous and thus reliable search for all possible spin states. The number of obtained spin configurations we may consider almost exhaustive, which is also proven in a series of studies by comparing with experimental data. \cite{Zhu_2018, Jiang_2018} .
 
 \subsection{Energy calculations}
 
@@ -554,7 +556,7 @@ One more important point here is the quite a noticeable difference between the e
 
 \subsection{Monte Carlo simulation} 
 
-As a final step of the workflow values of exchange coupling parameters $(J_{ij})$ used to study the material transition from ferromagnetic (FM) to paramagnetic (PM) state. It is done by the source of constrained Monte Carlo (MC) metropolis algorithm as implemented in Vampire software which allows to carry out calculations of the equilibrium temperature-dependent magnetic properties. Vampire contains a predefined functionality to estimate critical temperature by performing a temperature sweep and calculating the average magnetization, returning the classic M-T curve.
+As a final step of the workflow values of exchange coupling parameters $(J_{ij})$ used to study the material transition from ferromagnetic (FM) to paramagnetic (PM) state. It is done by the source of constrained Monte Carlo (MC) \cite{Evans_2010} metropolis algorithm as implemented in Vampire \cite{Evans_2014, Evans_2015} software which allows to carry out calculations of the equilibrium temperature-dependent magnetic properties. Vampire contains a predefined functionality to estimate critical temperature by performing a temperature sweep and calculating the average magnetization, returning the classic M-T curve.
 
 For all the systems, exchange energy was considered isotropic (equal in all directions). To neglect finite-size and surface effects in a bulk material was chosen sufficiently large dimensionality of $10 \times 10 \times 10\ nm^3$ and defined periodic boundary conditions in all three spatial directions.  Temperature range of modeling was specified from $0$ to $1500\ K$ with an increment of $25\ K$ for each temperature done $10^5$ equilibration time steps which is needed to reach thermal equilibrium in the system followed by the $10^5$ loop-time steps, which is already counted to the average of magnetization as it is illustrated in figure \ref{fig:time_magnetization}.  Quite a large number of equilibration steps explained due to known equilibration-temperature dependence which tends to drastically slow down close to the Curie point. Specified numbers chosen heuristically but yet yields reasonable results for the most of systems.
 The bigger number of averaging steps, in general, lead to more smooth data but obviously requests more computational resources.

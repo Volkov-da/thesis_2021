@@ -71,33 +71,34 @@ Results obtained during GGA and GGA + U calculations with relative errors compar
 \begin{table}[H]
 \centering
 \caption{Comparison of calculated by GGA and GGA+U results with experimental.}
-\begin{tabular}{|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{2cm}|}
+\begin{tabular}{|p{2.6cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|}
 \hline 
-Material & ref. & exp. & GGA & GGA+U & $\Delta^{GGA}, \%$ & $\Delta^{GGA+U}, \%$ \\ 
+\multirow{2}{*}{Material} & \multicolumn{4}{|c|}{$T_C, K$} &\multicolumn{2}{|c|}{$\Delta, \%$}\\\cline{2-7}
+ & ref. & exp. & GGA & GGA+U & GGA & GGA+U\\ 
 \hline 
-Fe-bcc & 950 & 1043 & 820 & 648 & 21.4  & 37.9 \\ 
-Co & 1311 & 1388 & 850 & 780 &  38.8 & 43.8 \\ 
-Ni-fcc & 300 & 627 & 315 & 550 & 49.8 & 12.3 \\ 
-Ni-bcc & 250 & 456 & 212 & 590 & 53.5  & 29.4 \\ 
-Gd & 293 & 294 & 94 &- & 68.0 & - \\ 
+Fe-bcc \cite{Pajda_2001} & 950 & 1043 & 820 & 648 & 21.4  & 37.9 \\ 
+Co-fcc \cite {Pajda_2001} & 1311 & 1388 & 850 & 780 &  38.8 & 43.8 \\ 
+Ni-fcc \cite{Pajda_2001} & 300 & 627 & 315 & 550 & 49.8 & 12.3 \\ 
+Ni-bcc \cite{Tian_2005} & 250 & 456 & 212 & 590 & 53.5  & 29.4 \\ 
+Gd \cite{Tereshina_2016} & 293 & 294 & 94 &- & 68.0 & - \\ 
 Eu-bcc & 111 & 91 & 86 & - & 5.5 & - \\ 
 \hline
-\ce{EuO} & 35 & 69 & 67 & - & 2.9 & - \\ 
+\ce{EuO} \cite{Jutong_2015} & 35 & 69 & 67 & - & 2.9 & - \\ 
 \ce{Fe_3O_4} & - & 858 & 760 & 616 & 11.4  & 28.2 \\ 
-\ce{CrO_2} & 305 & 408 & 280 & 300 & 31.4  & 26.5 \\ 
-MnO & 240 \cite{Archer_2011} & 118 \cite{Roth_1958} & 249 & 55 & 111.0 & 53.4 \\ 
-NiO & 393 \cite{Archer_2011} & 523 \cite{Archer_2011} & 824 & 272 &  57.6 & 48.0 \\ 
+\ce{CrO_2} \cite{Huang_2018} & 305 & 408 & 280 & 300 & 31.4  & 26.5 \\ 
+MnO \cite{Archer_2011, Roth_1958} & 240  & 118 & 249 & 55 & 111.0 & 53.4 \\ 
+NiO \cite{Archer_2011, Roth_1958} & 393 & 523  & 824 & 272 &  57.6 & 48.0 \\ 
 \hline 
-\ce{Fe2B} & 1000 & 1115 & 940 & 1220 & 15.7 & 9.4 \\ 
+\ce{Fe2B} \cite{Markus_2015} & 1000 & 1115 & 940 & 1220 & 15.7 & 9.4 \\ 
+\ce{Co_2B} \cite{Markus_2015} & 450 & 426 & 330 & 516 &  22.5 & 21.1 \\ 
 CoB & 411 & 477 & 280 & 320 &41.3  & 32.9 \\
-\ce{CoB_2} & 450 & 426 & 330 & 516 &  22.5 & 21.1 \\ 
 \ce{Fe_2P} & - & 306 & 219 & 441 & 28.4  & 44.1 \\ 
 MnBi & - & 630 & 481 & 720 &  23.7 & 14.3 \\ 
 MnSb & - & 587 & 311 & 769 & 47.0 & 31 \\ 
 MnAs & - & 318 & 480 & 440 & 50.9 & 38.4 \\ 
-EuS & - & 16 & 36 & - & 125.0 & - \\ 
+EuS \cite{Houten_1962} & - & 16 & 36 & - & 125.0 & - \\ 
 \hline 
-\ce{Gd_2NiSi} & 215 & 251 & 56 & - & 77.7 & - \\ 
+\ce{Gd_3NiSi2} \cite{Liu_2009} & 215 & 251 & 56 & - & 77.7 & - \\ 
 \ce{GdFeSi} & 145 & 135 & 25 & - & 81.5 & - \\ 
 \hline 
 \end{tabular}
@@ -107,7 +108,7 @@ EuS & - & 16 & 36 & - & 125.0 & - \\
 
 \section{Novel structures study}
 
-At a final stage of all the performed work develop methods for critical temperature calculations we applied in a direct exploration of newly predicted magnetic structures. As mentioned before, nowadays, it's already possible to perform a computational search of such structures but optimizing them only concerning stability and magnetic moment. So as a final step of this work, a developed in section \ref{section: DFT_MC} algorithm based on DFT + MC calculations and the best-trained ML model from section \ref{section: XGBoost} was applied to benchmark new structures with respect to their Curie temperature.  Namely were tested 55 promising magnetic compositions obtained during coevolutionary (Mendelevian) search.
+At a final stage of all the performed work develop methods for critical temperature calculations we applied in a direct exploration of newly predicted magnetic structures. As mentioned before, nowadays, it's already possible to perform a computational search of such structures but optimizing them only concerning stability and magnetic moment. So as a final step of this work, a developed in section \ref{section: DFT_MC} algorithm based on DFT + MC calculations and the best-trained ML model from section \ref{section: XGBoost} was applied to benchmark new structures with respect to their Curie temperature.  Namely were tested 55 promising magnetic compositions obtained during coevolutionary (Mendelevian) search as implemented in MendS alghoritm \cite{Allahyari_2020}.
 
 
 Distribution of estimated critical temperatures presented in the figure \ref{fig:dft_hist}. As it is shown, the correlation between the results produced by the two described methodology is quite weak. Generally, it might be explained due to the nature of the descriptors used in ML model training. Since prepared features were exclusively based on chemical information without considering structural data, the whole predictive model tends to predict high values of critical temperature for the compositions with the close to known in model stoichiometry. Thus even for previously unknown Fe and Co-containing structures ML model always expect values of critical temperature higher than 400~K in the same fashion as for the known from training data compositions containing these elements.

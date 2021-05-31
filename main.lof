@@ -2,37 +2,36 @@
 \babel@toc {english}{}
 \babel@toc {english}{}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Development in energy product of permanent magnetic materials}}{12}{figure.caption.5}%
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Development in energy product of permanent magnetic materials}}{11}{figure.caption.4}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Diagram showing the magnetic moment associated with orbital and spin motion of an electron.}}{15}{figure.caption.6}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Illustration of time reversion symmetry breaking}}{16}{figure.caption.7}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Schematic illustration of various types of magnetism.}}{17}{figure.caption.8}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Magnetic properties of pure elements}}{18}{figure.caption.9}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Schematic densities of states (DOSs) for ferromagnetism.}}{18}{figure.caption.10}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Illustration of magnetization versus temperature.}}{19}{figure.caption.11}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Sketch of Landau free energy.}}{20}{figure.caption.12}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Domain structures in cubic and FM materials.}}{22}{figure.caption.14}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Domain wall structures.}}{22}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Diagram showing the magnetic moment associated with orbital and spin motion of an electron.}}{14}{figure.caption.5}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Illustration of time reversion symmetry breaking}}{15}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Schematic illustration of various types of magnetism.}}{16}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Magnetic properties of pure elements}}{17}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Schematic densities of states (DOSs) for ferromagnetism.}}{17}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Illustration of magnetization versus temperature.}}{18}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Domain structures in cubic and FM materials.}}{20}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Domain wall structures.}}{20}{figure.caption.13}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces $T_C$ distribution histogram over 2557 samples}}{30}{figure.caption.18}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Schematic process of cross-validation process and final model evaluation on the test subset}}{31}{figure.caption.20}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Comparison of experimental $(T_C^{exp})$ and predicted values $(T_C^{ML})$ for different Kernels.}}{34}{figure.caption.22}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Single Tree model with depth 4 for the regression problem under consideration.}}{35}{figure.caption.25}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces RF model hyper parameters tuning.}}{36}{figure.caption.26}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Optimized RF model performance, left comparison of predicted and experimental data.}}{36}{figure.caption.27}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces XGBoost model hyperparameters tuning.}}{38}{figure.caption.30}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Optimized XGBoost performance}}{38}{figure.caption.31}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Correlation matrix for the most valuable descriptors in RF. }}{40}{figure.caption.34}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces SISSO model performance.}}{41}{figure.caption.35}%
-\contentsline {figure}{\numberline {3.11}{\ignorespaces RF feature importance histogram.}}{42}{figure.caption.36}%
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Schematic determination of $J_1$ and $J_2$ coefficients in $2D$ case.\relax }}{47}{figure.caption.38}%
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Three different spin configurations produced for \ce {EuO}.}}{48}{figure.caption.41}%
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Three different spin configurations produced for MnO.}}{49}{figure.caption.43}%
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Time-dependent magnetisation caused by a stepwise increase in temperature.}}{50}{figure.caption.44}%
-\contentsline {figure}{\numberline {3.16}{\ignorespaces MC magnetization temperature curve.}}{51}{figure.caption.45}%
-\contentsline {figure}{\numberline {3.17}{\ignorespaces End-to-end pipeline scheme.}}{51}{figure.caption.46}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Critical temperature distribution histogram over 2557 samples}}{28}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Scheme of cross-validation process followed by final model evaluation on the test subset.}}{29}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Comparison of experimental and predicted values of Curie temperature for different Kernels.}}{32}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Single Tree model with depth 4 for the regression problem under consideration.}}{33}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces RF model hyper parameters tuning.}}{34}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Optimized RF model performance, left comparison of predicted and experimental data.}}{34}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces XGBoost model hyperparameters tuning.}}{36}{figure.caption.28}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Optimized XGBoost performance}}{36}{figure.caption.29}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Correlation matrix for the most valuable descriptors in RF. }}{38}{figure.caption.32}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces SISSO model performance.}}{39}{figure.caption.33}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces RF feature importance histogram.}}{40}{figure.caption.34}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Schematic determination of $J_1$ and $J_2$ coefficients in $2D$ case.\relax }}{44}{figure.caption.36}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Three different spin configurations produced for \ce {EuO}.}}{45}{figure.caption.39}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Three different spin configurations produced for MnO.}}{46}{figure.caption.41}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Time-dependent magnetisation caused by a stepwise increase in temperature.}}{47}{figure.caption.42}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces MC magnetization temperature curve.}}{48}{figure.caption.43}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces End-to-end pipeline scheme.}}{48}{figure.caption.44}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Comparison of calculated by GGA results with experimental.}}{54}{figure.caption.48}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Comparison of calculated by GGA+U results with experimental.}}{55}{figure.caption.49}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Histogram of estimated critical temperature using ML and DFT.}}{57}{figure.caption.51}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Comparison of calculated by GGA results with experimental.}}{51}{figure.caption.46}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Comparison of calculated by GGA+U results with experimental.}}{52}{figure.caption.47}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Histogram of estimated critical temperature using ML and DFT.}}{54}{figure.caption.49}%
 \addvspace {10\p@ }

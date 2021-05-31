@@ -7,50 +7,53 @@ A level-1 auxiliary file: chapters/1_introduction.aux
 A level-1 auxiliary file: chapters/2_lit_review.aux
 A level-1 auxiliary file: chapters/3_materials_methods.aux
 A level-1 auxiliary file: chapters/4_results.aux
+A level-1 auxiliary file: chapters/5_discussion.aux
 A level-1 auxiliary file: chapters/biblio.aux
 The style file: ieeetr.bst
 Database file #1: ref/ref.bib
 Warning--empty author in osti_4549319
 Warning--empty journal in osti_4549319
-You've used 39 entries,
+Warning--empty journal in Markus_2015
+Warning--empty journal in Houten_1962
+You've used 58 entries,
             1876 wiz_defined-function locations,
-            755 strings with 11734 characters,
-and the built_in function-call counts, 12687 in all, are:
-= -- 1267
-> -- 577
+            889 strings with 16818 characters,
+and the built_in function-call counts, 19039 in all, are:
+= -- 1900
+> -- 876
 < -- 0
-+ -- 207
-- -- 168
-* -- 933
-:= -- 1760
-add.period$ -- 39
-call.type$ -- 39
-change.case$ -- 39
++ -- 314
+- -- 256
+* -- 1384
+:= -- 2627
+add.period$ -- 58
+call.type$ -- 58
+change.case$ -- 58
 chr.to.int$ -- 0
-cite$ -- 41
-duplicate$ -- 677
-empty$ -- 1001
-format.name$ -- 168
-if$ -- 3111
+cite$ -- 62
+duplicate$ -- 1033
+empty$ -- 1485
+format.name$ -- 256
+if$ -- 4681
 int.to.chr$ -- 0
-int.to.str$ -- 39
-missing$ -- 39
-newline$ -- 120
-num.names$ -- 38
-pop$ -- 71
+int.to.str$ -- 58
+missing$ -- 58
+newline$ -- 177
+num.names$ -- 57
+pop$ -- 111
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 609
+skip$ -- 936
 stack$ -- 0
-substring$ -- 814
-swap$ -- 382
+substring$ -- 1192
+swap$ -- 593
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 107
-width$ -- 41
-write$ -- 397
-(There were 2 warnings)
+warning$ -- 4
+while$ -- 154
+width$ -- 60
+write$ -- 590
+(There were 4 warnings)

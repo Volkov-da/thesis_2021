@@ -1,46 +1,12 @@
 \chapter{Introduction}
 
 \section{Background}
-Ferromagnetic materials (FM) known to humanity for more than 2000 years. It's been a long time since the first samples of “adamants” also known as “lodestones” amazed our ancestors by their unique properties. Since then, this class of materials was thoroughly analyzed and described by many generations of brightest scientists. But yet even in the 21st century, we still have many questions to answer to understand this mysterious phenomenon fully. This work will be attempted to disclose one of the properties characteristic of magnetic structures. Namely, magnetic temperature depending ordering, also known as critical temperature or Curie temperature. With the main goal of applying developed methodology for the search of new promising structures.
+Ferromagnetic materials (FM) known to humanity for more than 2000 years. It's been a long time since the first samples of a mineral known as lodestone (\ce{Fe_3O_4}) amazed our ancestors by its unique properties. Since then, this class of materials was thoroughly analyzed and described by many generations of bright scientists. But yet even in the 21st century, we still have many questions to answer to fully understand this mysterious phenomenon. 
 
+The wide usage of FM materials in industrial applications started in the late 19th century when carbon steels were replaced with Alnico alloys.  Futher the discovery of the large magnetocrystalline anisotropy in the second part of the 20th century lead to the revolutionary introduction of rare-earth magnets. First produced samples of \ce{Sm_5Gd} reported in 1960 lead to an industrial breakthrough and further rapid development in this field.  From this moment, the remarkable increase in the energy product of magnetic materials was accompanied by the tremendous decrease in their volume, providing the same amount of magnetic energy as it is illustrated in figure~\ref{fig:history}.  Progress in this direction ends up with the discovery of the strongest and most usable till now Nb-Fe-B composition \cite{Gutfleisch2010}. 
 
-Uniqueness of FM materials comes from the ability to retain their magnetism even after an applied external magnetic field is disappearing.
-Such properties' explanation lies in their high magnetocrystalline anisotropy providing stability of their magnetization direction concerning their crystal axes. 
-Thus magnetic anisotropy is basically the source of coercivity and hysteresis, which distinguishes hard (permanent) magnets from soft magnetic materials.
-On the contrary to electromagnets, FM materials can create and support a magnetic field $H$ in free space without the continuous expenditure of electric or other forms of energy, thus playing an essential role in the modern world.
-
-FM materials not only becoming more common by replacing electromagnets for many purposes, including small motors, engines, and generators, they are also increasingly becoming irreplaceable components of many mass-market consumer goods like electrical devices and data storage, medical devices, industrial products, and are also part of countless new applications.
-As a result, demands for cheap and strong magnets have increased nearly a hundred-fold in the past few decades most people would be hard-pressed to identify where these magnets are found.
-Possible applications can be grouped into three main categories, namely uniform, nonuniform, and steady as it is shown in Table~\ref{tab:application}.
-
-\begin{table}[H]
-\caption[Summary of the ferromagnetic materials applications.]{Summary of the ferromagnetic materials applications.}
-\begin{tabular}{|l|l|l|p{6cm}|}
-\hline 
-Field & Magnetic effect & Type & Examples \\ 
-\hline 
-\multirow{5}{*}{Uniform} & Zeeman spliting & \multirow{3}{*}{Static} & Magnetic resonance imaging (MRI) \\ 
-									 & Torque &  & Alignment of magnetic powder \\ 
- 								     & Hall effect, magnetoresistance &  & Sensors, read-heads \\ \cline{2-4}
- 								& Force on conductor & \multirow{2}{*}{Dynamic} & Motors, actuators, loudspeakers \\ 
- 								& Induced emf &  & Generators, microphones \\ \hline 
-\multirow{3}{*}{Nonuniform} & Force on charged particles & Static & Beam control, radiation sources (microwave, uv; X-ray) \\ \cline{2-4}
-										   & Force on magnet &  \multirow{2}{*}{Dynamic} & Bearings, couplings, Maglev \\ 
-										   & Force on paramagnet &  & Mineral separation \\ 
-\hline
-\multirow{3}{*}{Time varying} & Varying field & \multirow{3}{*}{Dynamic} & Magnetometers \\ 
-											& Force on iron &  & Switchable clamps, holding m \\ 
-											& Eddy currents &  & Metal separation, brakes \\ 
-\hline 
-\end{tabular}
-\label{tab:application}
-\end{table}
-Since the discovery of lodestone (\ce{Fe_3O_4}) ferromagnetic materials passed a great path. Carbon steels used till the late 19th century were replaced with Alnico alloys which are still used in the industry. The revolutionary introduction of rare-earth magnets in the second part of 20th century began with the discovery of their large magnetocrystalline anisotropy. First produced samples of \ce{Sm_5Gd} reported in 1960 lead to an industrial breakthrough and further development in this field till the discovery of the most usable nowadays Nb-Fe-B compositions \cite{Gutfleisch2010}.
-A summary of different ferromagnetic materials with the corresponding energy product can be found in Figure~\ref{fig:history}.
-The remarkable increase in the energy product in the magnetic materials was accompanied with the tremendous decrease in the volume of the magnets providing the same amount of magnetic energy.
-The current
-commercially available hard magnets are mainly ferrites, Alnico, \ce{SmCo_5} and
-\ce{Sm_2Tm_{17}} (Tm=Co, Fe, Zr, and Cu), \ce{SmFeN} and \ce{NdFeB}.
+Nowadays, FM are actively used not only in the design of complex technical devices such as engines, turbines, and generators but also as an irreplaceable part of widely used mass-market consumer products. Mobile phones, laptops, hard drives, audio devices, and an endless number of other applications have made this class of materials one of the most sought-after in the present times. As a result, the need for strong and cheap magnets has increased hundreds of times in just the last few decades with a special interest in rare-earth (REEs) magnets possessing excellent properties at room temperature within a relatively low price per energy-density unit.
+But at this point, the modern world faced quite a risky situation. Thus, according to the recent data of the World Trade Organization, more than 95\% of REEs mining concentrated in China. This monopoly has led to a rapid rise in prices for REEs over the past few years and is undoubtedly unsatisfactory for countries with a high demand for these materials. Moreover, the strong concentration of such a critical resource in one place in the event of unforeseen circumstances (such as COVID-19) can cause a complete interruption in supplies and multibillion money losses for manufacturers around the globe.
 
 \begin{figure}[H]
 	\centering
@@ -49,20 +15,21 @@ commercially available hard magnets are mainly ferrites, Alnico, \ce{SmCo_5} and
 	\label{fig:history}
 \end{figure}
 
-Nowadays, the rare-earth (REEs) FM became the most critical magnets in the market. Their dominating role might be explained due to their excellent magnetic properties at room temperature and their relatively low cost per energy-density unit. However, supply chain issues in recent years led to both prices and availability unpredictable issues.
+The possessed situation lead to a great interest of science and industry in discovering new ferromagnetic materials. Nevertheless, despite several attempts to computationally predict new structures made in the last 25 years, this problem remains unsolved. One reason for it is a limitation of modern algorithms, which allows to exact only elementary properties like stability and magnetic moment, staying absolutely blind to FM critical temperature. As a consequence, a huge amount of computational and experimental efforts results in materials with low technological potential due to unsatisfying values of Curie temperature. 
 
-The demand for hard magnetic materials becomes even bigger taking into account their numerous commercial applications in data storage, engines, actuators, generators, wind turbines, and hybrid cars. Not only increased demand but limited export from China has led to increased prices for these materials in the last years. These problems are forcing both industry and science to pay attention to the opportunities of developing new types of FM materials.
 
+\cleardoublepage
 \section{Aim and Goals}
 
-The ultimate goal of this study is to search for new technologically promising magnetic compositions. Considering the capabilities of modern evolutionary algorithms that allow identifying stable structures with a high magnetic moment, the problem of automated determination of the critical magnetic temperature (Curie point) remains unsolved. To solve the indicated problem and empower the end-user with a straightforward methodology for its calculation, the following research tasks are indicated:
+
+Based on a brief introduction, the ultimate goal of this study is to search for new technologically promising magnetic compositions. Considering the capabilities of modern evolutionary algorithms that allow identifying stable structures with a high magnetic moment, the problem of automated determination of the critical magnetic temperature (Curie point) remains unsolved. To solve the indicated problem and empower the end-user with a straightforward methodology for its calculation, the following research objectives are identified:
 
 
 \begin{enumerate}
 \item Development and implementation of the critical magnetic temperature calculation methodology based on DFT approaches followed by Monte Carlo simulations.
 \item Training of several classical ML models to solve a regression problem of critical temperature estimation based on the available experimental data.
 \item Testing of the developed methods on compositions with known experimental and theoretical values of Curie temperature.
-\item Computational search for new compositions with high magnetic properties using evolutionary algorithm USPEX.
+\item Computational search for new compositions with high magnetic properties using evolutionary algorithm USPEX \cite{Oganov_2006, Oganov_2011,  Oganov_2013}.
 \item Benchmarking of the newly find structures concerning their critical temperature to
 determine the most promising from the technological viewpoint.
 \end{enumerate}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  30 MAY 2021 03:14
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  31 MAY 2021 17:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -623,100 +623,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 I
-      t is worth to mention that descriptors used in this work are different...
+l.23 T
+      he highest accuracy demonstrated by the XGBoost model with $R^2$ and m...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no I in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no . in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -822,9 +734,6 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -867,6 +776,94 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no R in font nullfont!
 Missing character: There is no F in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -1093,7 +1090,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .^^J
-l.24 ...all step (after ref.  \cite{Nelson:2019ui}
+l.25 ...all step (after ref.  \cite{Nelson:2019ui}
                                                    toward the ML-driven comp...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1102,7 +1099,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `Nelson:2019ui' on page  undefined on input line 24.
+LaTeX Warning: Citation `Nelson:2019ui' on page  undefined on input line 25.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -1169,22 +1166,351 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 23--25
+Overfull \hbox (20.0pt too wide) in paragraph at lines 23--26
 []
  []
 
 
-Overfull \hbox (12.15628pt too wide) in paragraph at lines 23--25
+Overfull \hbox (12.15628pt too wide) in paragraph at lines 23--26
 \OML/cmm/m/it/10 R[]$
  []
 
 
-Overfull \hbox (5.43pt too wide) in paragraph at lines 23--25
+Overfull \hbox (5.43pt too wide) in paragraph at lines 23--26
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 A
+      ll the generic python code produced in this part of the work stored at...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no ( in font nullfont!
+! Undefined control sequence.
+l.27 ...the work stored at GitHub repository (\url
+                                                  {https://github.com/Volkov...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no V in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.27 ... (\url{https://github.com/Volkov-da/curie_
+                                                  calculator/tree/master/ML_...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.27 ...-da/curie_calculator/tree/master/ML_model}
+                                                  ).
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.29 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 27--29
+[]
+ []
+
+
+Overfull \hbox (734.74493pt too wide) in paragraph at lines 27--29
+[]\OML/cmm/m/it/10 alculator=tree=master=ML[]odel\OT1/cmr/m/n/10 )\OML/cmm/m/it
+/10 :Thewholeprocessofdatacleaning; preprocessingaswellasmodeltrainingandvalida
+tionstoredinaformofbrieflycommentedjupyter \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (149.55374pt too wide) in paragraph at lines 27--29
+\OML/cmm/m/it/10 notebook\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 file[]\OT1/cmr/m/n/1
+0 )\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 T
+      he pipline showed the best performance (MinMaxScaler + XGBoost) was ad...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no J in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 30--31
 []
  []
 
 ! Undefined control sequence.
-l.28 \section
+l.34 \section
              {DFT calculations results}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1199,7 +1525,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.28 \section{D
+l.34 \section{D
                FT calculations results}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1264,7 +1590,7 @@ Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
 <write> ...nce `section: DFT_MC' on page \thepage 
                                                   \space undefined\on@line .^^J
-l.29 ...described in section \ref{section: DFT_MC}
+l.35 ...described in section \ref{section: DFT_MC}
                                                    were calculated values of...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1273,7 +1599,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `section: DFT_MC' on page  undefined on input line 29.
+LaTeX Warning: Reference `section: DFT_MC' on page  undefined on input line 35.
 
 
 Missing character: There is no w in font nullfont!
@@ -1570,12 +1896,12 @@ Missing character: There is no w in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 28--30
+Overfull \hbox (20.0pt too wide) in paragraph at lines 34--36
 []
  []
 
 
-Overfull \hbox (10.86pt too wide) in paragraph at lines 28--30
+Overfull \hbox (10.86pt too wide) in paragraph at lines 34--36
 []
  []
 
@@ -1586,18 +1912,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.31 \begin{equation}
+l.37 \begin{equation}
                      
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 31--31
+Overfull \hbox (20.0pt too wide) in paragraph at lines 37--37
 [] 
  []
 
 
-Overfull \hbox (85.68434pt too wide) detected at line 33
+Overfull \hbox (85.68434pt too wide) detected at line 39
 \OT1/cmr/m/n/10 ^^A = []
  []
 
@@ -1608,7 +1934,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 A
+l.41 A
       s it might be seen from the table \ref{tab:gga_summary} in general GGA...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1644,7 +1970,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...nce `tab:gga_summary' on page \thepage 
                                                   \space undefined\on@line .^^J
-l.35 ... seen from the table \ref{tab:gga_summary}
+l.41 ... seen from the table \ref{tab:gga_summary}
                                                    in general GGA + U approa...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1653,7 +1979,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `tab:gga_summary' on page  undefined on input line 35.
+LaTeX Warning: Reference `tab:gga_summary' on page  undefined on input line 41.
 
 
 Missing character: There is no i in font nullfont!
@@ -1860,12 +2186,12 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 35--36
+Overfull \hbox (20.0pt too wide) in paragraph at lines 41--42
 []
  []
 
 
-Overfull \hbox (10.86pt too wide) in paragraph at lines 35--36
+Overfull \hbox (10.86pt too wide) in paragraph at lines 41--42
 []
  []
 
@@ -1876,7 +2202,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 F
+l.43 F
       rom the plot \ref{fig:gga} we may conclude that in general GGA tends t...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1896,7 +2222,7 @@ Missing character: There is no t in font nullfont!
 ! Undefined control sequence.
 <write> ...: Reference `fig:gga' on page \thepage 
                                                   \space undefined\on@line .^^J
-l.37 From the plot \ref{fig:gga}
+l.43 From the plot \ref{fig:gga}
                                  we may conclude that in general GGA tends t...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1905,7 +2231,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:gga' on page  undefined on input line 37.
+LaTeX Warning: Reference `fig:gga' on page  undefined on input line 43.
 
 Missing character: There is no w in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -2018,32 +2344,32 @@ Missing character: There is no , in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 37--38
+Overfull \hbox (20.0pt too wide) in paragraph at lines 43--44
 []
  []
 
 
-Overfull \hbox (10.86pt too wide) in paragraph at lines 37--38
+Overfull \hbox (10.86pt too wide) in paragraph at lines 43--44
 []
  []
 
 
-Overfull \hbox (22.26pt too wide) in paragraph at lines 37--38
+Overfull \hbox (22.26pt too wide) in paragraph at lines 43--44
 \TU/lmr/m/it/10 MnO
  []
 
 
-Overfull \hbox (18.17pt too wide) in paragraph at lines 37--38
+Overfull \hbox (18.17pt too wide) in paragraph at lines 43--44
 \TU/lmr/m/it/10 NiO
  []
 
 
-Overfull \hbox (25.6pt too wide) in paragraph at lines 37--38
+Overfull \hbox (25.6pt too wide) in paragraph at lines 43--44
 \TU/lmr/m/it/10 MnAs
  []
 
 
-Overfull \hbox (17.77pt too wide) in paragraph at lines 37--38
+Overfull \hbox (17.77pt too wide) in paragraph at lines 43--44
 \TU/lmr/m/it/10 EuS 
  []
 
@@ -2054,7 +2380,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 \begin{figure}
+l.45 \begin{figure}
                    [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2067,7 +2393,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 \begin{figure}[
+l.45 \begin{figure}[
                     H]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2076,7 +2402,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.41 \captionsetup
+l.47 \captionsetup
                   {justification=centering,margin=2cm}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2119,7 +2445,7 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no m in font nullfont!
 ! Undefined control sequence.
-l.42 ^^I\includegraphics
+l.48 ^^I\includegraphics
                         [width=80mm]{fig/dft_fig/gga_results.png}\includegra...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2149,13 +2475,13 @@ Missing character: There is no t in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.42 ^^I\includegraphics[width=80mm]{fig/dft_
+l.48 ^^I\includegraphics[width=80mm]{fig/dft_
                                              fig/gga_results.png}\includegra...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.42 ...s[width=80mm]{fig/dft_fig/gga_results.png}
+l.48 ...s[width=80mm]{fig/dft_fig/gga_results.png}
                                                   \includegraphics[width=80m...
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2164,7 +2490,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 ! Undefined control sequence.
-l.42 ...g/dft_fig/gga_results.png}\includegraphics
+l.48 ...g/dft_fig/gga_results.png}\includegraphics
                                                   [width=80mm]{fig/dft_fig/g...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2179,7 +2505,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.43 ^^I\caption
+l.49 ^^I\caption
                 [Comparison of calculated by GGA results with experimental.]...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2192,7 +2518,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.45 \end{figure}
+l.51 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2201,7 +2527,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.45 \end{figure}
+l.51 \end{figure}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2212,7 +2538,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.45 \end{figure}
+l.51 \end{figure}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2221,18 +2547,18 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 39--46
+Overfull \hbox (20.0pt too wide) in paragraph at lines 45--52
 []
  []
 
 
-Overfull \hbox (123.00038pt too wide) in paragraph at lines 39--46
+Overfull \hbox (123.00038pt too wide) in paragraph at lines 45--52
 []\OML/cmm/m/it/10 ig=gga[]esults:png\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 width \O
 T1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (837.6514pt too wide) in paragraph at lines 39--46
+Overfull \hbox (837.6514pt too wide) in paragraph at lines 45--52
 \OT1/cmr/m/n/10 80\OML/cmm/m/it/10 mm\OT1/cmr/m/n/10 ][][\OML/cmm/m/it/10 Compa
 risonofcalculatedbyGGAresultswithexperimental:\OT1/cmr/m/n/10 ][][]$ 
  []
@@ -2244,7 +2570,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47  M
+l.53  M
        aximum relative errors of  125 \% are shown in the case of \textit{Eu...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2680,62 +3006,62 @@ Missing character: There is no 5 in font nullfont!
 Missing character: There is no % in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 47--48
+Overfull \hbox (20.0pt too wide) in paragraph at lines 53--54
 []
  []
 
 
-Overfull \hbox (17.77pt too wide) in paragraph at lines 47--48
+Overfull \hbox (17.77pt too wide) in paragraph at lines 53--54
 \TU/lmr/m/it/10 EuS
  []
 
 
-Overfull \hbox (19.20836pt too wide) in paragraph at lines 47--48
+Overfull \hbox (19.20836pt too wide) in paragraph at lines 53--54
 \OT1/cmr/m/n/10 16 \OML/cmm/m/it/10 K$
  []
 
 
-Overfull \hbox (19.20836pt too wide) in paragraph at lines 47--48
+Overfull \hbox (19.20836pt too wide) in paragraph at lines 53--54
 \OT1/cmr/m/n/10 36 \OML/cmm/m/it/10 K$
  []
 
 
-Overfull \hbox (24.20837pt too wide) in paragraph at lines 47--48
+Overfull \hbox (24.20837pt too wide) in paragraph at lines 53--54
 \OT1/cmr/m/n/10 538 \OML/cmm/m/it/10 K$
  []
 
 
-Overfull \hbox (14.20834pt too wide) in paragraph at lines 47--48
+Overfull \hbox (14.20834pt too wide) in paragraph at lines 53--54
 \OT1/cmr/m/n/10 5 \OML/cmm/m/it/10 K$
  []
 
 
-Overfull \hbox (15.73pt too wide) in paragraph at lines 47--48
+Overfull \hbox (15.73pt too wide) in paragraph at lines 53--54
 \TU/lmr/m/it/10 Eu-
  []
 
 
-Overfull \hbox (12.78pt too wide) in paragraph at lines 47--48
+Overfull \hbox (12.78pt too wide) in paragraph at lines 53--54
 \TU/lmr/m/it/10 bcc
  []
 
 
-Overfull \hbox (19.20836pt too wide) in paragraph at lines 47--48
+Overfull \hbox (19.20836pt too wide) in paragraph at lines 53--54
 \OT1/cmr/m/n/10 20 \OML/cmm/m/it/10 K$
  []
 
 
-Overfull \hbox (17.77pt too wide) in paragraph at lines 47--48
+Overfull \hbox (17.77pt too wide) in paragraph at lines 53--54
 \TU/lmr/m/it/10 EuS
  []
 
 
-Overfull \hbox (14.20834pt too wide) in paragraph at lines 47--48
+Overfull \hbox (14.20834pt too wide) in paragraph at lines 53--54
 \OT1/cmr/m/n/10 2 \OML/cmm/m/it/10 K$
  []
 
 
-Overfull \hbox (19.82pt too wide) in paragraph at lines 47--48
+Overfull \hbox (19.82pt too wide) in paragraph at lines 53--54
 \TU/lmr/m/it/10 EuO
  []
 
@@ -2746,7 +3072,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.51 R
+l.57 R
       esults obtained during the GGA+U calculations presented in figure \ref...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2813,7 +3139,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...Reference `fig:gga_u' on page \thepage 
                                                   \space undefined\on@line .^^J
-l.51 ...ations presented in figure \ref{fig:gga_u}
+l.57 ...ations presented in figure \ref{fig:gga_u}
                                                   .  The distribution of err...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2822,7 +3148,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:gga_u' on page  undefined on input line 51.
+LaTeX Warning: Reference `fig:gga_u' on page  undefined on input line 57.
 
 Missing character: There is no . in font nullfont!
 Missing character: There is no T in font nullfont!
@@ -2910,12 +3236,20 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no v in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no o in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no - in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -2925,8 +3259,12 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no C in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -3460,42 +3798,42 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 51--52
+Overfull \hbox (20.0pt too wide) in paragraph at lines 57--58
 []
  []
 
 
-Overfull \hbox (10.86pt too wide) in paragraph at lines 51--52
+Overfull \hbox (10.86pt too wide) in paragraph at lines 57--58
 []
  []
 
 
-Overfull \hbox (22.26pt too wide) in paragraph at lines 51--52
+Overfull \hbox (22.26pt too wide) in paragraph at lines 57--58
 \TU/lmr/m/it/10 MnO
  []
 
 
-Overfull \hbox (24.20837pt too wide) in paragraph at lines 51--52
+Overfull \hbox (24.20837pt too wide) in paragraph at lines 57--58
 \OT1/cmr/m/n/10 608 \OML/cmm/m/it/10 K$
  []
 
 
-Overfull \hbox (19.20836pt too wide) in paragraph at lines 51--52
+Overfull \hbox (19.20836pt too wide) in paragraph at lines 57--58
 \OT1/cmr/m/n/10 15\OML/cmm/m/it/10 K$
  []
 
 
-Overfull \hbox (19.20836pt too wide) in paragraph at lines 51--52
+Overfull \hbox (19.20836pt too wide) in paragraph at lines 57--58
 \OT1/cmr/m/n/10 23\OML/cmm/m/it/10 K$
  []
 
 
-Overfull \hbox (20.21pt too wide) in paragraph at lines 51--52
+Overfull \hbox (20.21pt too wide) in paragraph at lines 57--58
 \TU/lmr/m/it/10 MnS
  []
 
 
-Overfull \hbox (18.03pt too wide) in paragraph at lines 51--52
+Overfull \hbox (18.03pt too wide) in paragraph at lines 57--58
 \TU/lmr/m/it/10 FeO
  []
 
@@ -3506,7 +3844,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.53 \begin{figure}
+l.59 \begin{figure}
                    [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3519,7 +3857,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.53 \begin{figure}[
+l.59 \begin{figure}[
                     H]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3528,7 +3866,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.55 \captionsetup
+l.61 \captionsetup
                   {justification=centering,margin=2cm}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3571,7 +3909,7 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no m in font nullfont!
 ! Undefined control sequence.
-l.56 ^^I\includegraphics
+l.62 ^^I\includegraphics
                         [width=80mm]{fig/dft_fig/gga_u_results.png}\includeg...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3601,18 +3939,18 @@ Missing character: There is no t in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.56 ^^I\includegraphics[width=80mm]{fig/dft_
+l.62 ^^I\includegraphics[width=80mm]{fig/dft_
                                              fig/gga_u_results.png}\includeg...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Double subscript.
-l.56 ...udegraphics[width=80mm]{fig/dft_fig/gga_u_
+l.62 ...udegraphics[width=80mm]{fig/dft_fig/gga_u_
                                                   results.png}\includegraphi...
 I treat `x_1_2' essentially like `x_1{}_2'.
 
 ! Extra }, or forgotten $.
-l.56 ...width=80mm]{fig/dft_fig/gga_u_results.png}
+l.62 ...width=80mm]{fig/dft_fig/gga_u_results.png}
                                                   \includegraphics[width=80m...
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -3621,7 +3959,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 ! Undefined control sequence.
-l.56 ...dft_fig/gga_u_results.png}\includegraphics
+l.62 ...dft_fig/gga_u_results.png}\includegraphics
                                                   [width=80mm]{fig/dft_fig/g...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3630,7 +3968,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Double subscript.
-l.56 ...udegraphics[width=80mm]{fig/dft_fig/gga_u_
+l.62 ...udegraphics[width=80mm]{fig/dft_fig/gga_u_
                                                   err.png}
 I treat `x_1_2' essentially like `x_1{}_2'.
 
@@ -3641,7 +3979,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.57 ^^I\caption
+l.63 ^^I\caption
                 [Comparison of calculated by GGA+U results with experimental...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3654,7 +3992,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 \end{figure}
+l.65 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3663,7 +4001,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.59 \end{figure}
+l.65 \end{figure}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -3674,7 +4012,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.59 \end{figure}
+l.65 \end{figure}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -3683,24 +4021,24 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 53--60
+Overfull \hbox (20.0pt too wide) in paragraph at lines 59--66
 []
  []
 
 
-Overfull \hbox (128.22844pt too wide) in paragraph at lines 53--60
+Overfull \hbox (128.22844pt too wide) in paragraph at lines 59--66
 []\OML/cmm/m/it/10 ig=gga[][]esults:png\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 width 
 \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (289.30798pt too wide) in paragraph at lines 53--60
+Overfull \hbox (289.30798pt too wide) in paragraph at lines 59--66
 \OT1/cmr/m/n/10 80\OML/cmm/m/it/10 mm\OT1/cmr/m/n/10 ][][\OML/cmm/m/it/10 Compa
 risonofcalculatedbyGGA \OT1/cmr/m/n/10 +
  []
 
 
-Overfull \hbox (589.40747pt too wide) in paragraph at lines 53--60
+Overfull \hbox (589.40747pt too wide) in paragraph at lines 59--66
 \OML/cmm/m/it/10 Uresultswithexperimental:\OT1/cmr/m/n/10 ][][]$ 
  []
 
@@ -3711,7 +4049,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.62 R
+l.68 R
       esults obtained during GGA and GGA + U calculations with relative erro...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3830,7 +4168,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...nce `tab:gga_summary' on page \thepage 
                                                   \space undefined\on@line .^^J
-l.62 ...esented in the table \ref{tab:gga_summary}
+l.68 ...esented in the table \ref{tab:gga_summary}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3839,17 +4177,17 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `tab:gga_summary' on page  undefined on input line 62.
+LaTeX Warning: Reference `tab:gga_summary' on page  undefined on input line 68.
 
 
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 62--63
+Overfull \hbox (20.0pt too wide) in paragraph at lines 68--69
 []
  []
 
 
-Overfull \hbox (10.86pt too wide) in paragraph at lines 62--63
+Overfull \hbox (10.86pt too wide) in paragraph at lines 68--69
 [] 
  []
 
@@ -3860,7 +4198,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.65 \begin{table}
+l.71 \begin{table}
                   [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3873,7 +4211,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.65 \begin{table}[
+l.71 \begin{table}[
                    H]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3888,7 +4226,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.67 \caption
+l.73 \caption
              {Comparison of calculated by GGA and GGA+U results with experim...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3953,6 +4291,19 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no . in font nullfont!
+! Undefined control sequence.
+<recently read> \multirow 
+                          
+l.76 \multirow
+              {2}{*}{Material} & \multicolumn{4}{|c|}{$T_C, K$} &\multicolum...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no * in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -3977,12 +4328,37 @@ Missing character: There is no G in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no + in font nullfont!
 Missing character: There is no U in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no U in font nullfont!
 Missing character: There is no F in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no - in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no c in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Pajda_2001}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .^^J
+l.79 Fe-bcc \cite{Pajda_2001}
+                              & 950 & 1043 & 820 & 648 & 21.4  & 37.9 \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Pajda_2001' on page  undefined on input line 79.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 0 in font nullfont!
@@ -4006,6 +4382,27 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no o in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Pajda_2001}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .^^J
+l.80 Co-fcc \cite {Pajda_2001}
+                               & 1311 & 1388 & 850 & 780 &  38.8 & 43.8 \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Pajda_2001' on page  undefined on input line 80.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 1 in font nullfont!
@@ -4034,6 +4431,23 @@ Missing character: There is no - in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no c in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Pajda_2001}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .^^J
+l.81 Ni-fcc \cite{Pajda_2001}
+                              & 300 & 627 & 315 & 550 & 49.8 & 12.3 \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Pajda_2001' on page  undefined on input line 81.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
@@ -4060,6 +4474,23 @@ Missing character: There is no - in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no c in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Tian_2005}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .^^J
+l.82 Ni-bcc \cite{Tian_2005}
+                             & 250 & 456 & 212 & 590 & 53.5  & 29.4 \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Tian_2005' on page  undefined on input line 82.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 0 in font nullfont!
@@ -4117,7 +4548,7 @@ Missing character: There is no - in font nullfont!
 ! Undefined control sequence.
 <recently read> \ce 
                     
-l.79 \ce
+l.86 \ce
         {EuO} & 35 & 69 & 67 & - & 2.9 & - \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4142,7 +4573,7 @@ Missing character: There is no - in font nullfont!
 ! Undefined control sequence.
 <recently read> \ce 
                     
-l.80 \ce
+l.87 \ce
         {Fe_3O_4} & - & 858 & 760 & 616 & 11.4  & 28.2 \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4155,13 +4586,13 @@ Missing character: There is no e in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.80 \ce{Fe_
+l.87 \ce{Fe_
             3O_4} & - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.80 \ce{Fe_3O_4}
+l.87 \ce{Fe_3O_4}
                   & - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4172,7 +4603,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4181,7 +4612,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4192,7 +4623,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4201,7 +4632,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4212,7 +4643,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4221,7 +4652,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4232,7 +4663,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4241,7 +4672,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4252,7 +4683,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4261,7 +4692,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4272,7 +4703,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4281,7 +4712,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4292,7 +4723,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4301,7 +4732,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4312,7 +4743,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4321,7 +4752,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4332,7 +4763,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4341,7 +4772,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4352,7 +4783,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4361,7 +4792,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4372,7 +4803,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4381,7 +4812,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4392,7 +4823,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4401,7 +4832,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4412,7 +4843,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4421,7 +4852,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4432,7 +4863,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4441,7 +4872,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4452,7 +4883,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4461,7 +4892,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4472,7 +4903,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4481,7 +4912,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4492,7 +4923,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4501,7 +4932,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4512,7 +4943,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4521,7 +4952,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4532,7 +4963,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4541,7 +4972,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4552,7 +4983,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4561,7 +4992,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4572,7 +5003,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4581,7 +5012,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4592,7 +5023,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4601,7 +5032,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4612,7 +5043,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4621,7 +5052,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4632,7 +5063,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4641,7 +5072,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4652,7 +5083,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4661,7 +5092,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4672,7 +5103,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4681,7 +5112,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4692,7 +5123,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4701,7 +5132,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4712,7 +5143,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4721,7 +5152,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4732,7 +5163,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4741,7 +5172,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4752,7 +5183,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4761,7 +5192,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4772,7 +5203,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4781,7 +5212,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4792,7 +5223,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4801,7 +5232,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4812,7 +5243,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4821,7 +5252,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4832,7 +5263,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4841,7 +5272,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4852,7 +5283,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4861,7 +5292,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4872,7 +5303,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4881,7 +5312,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4892,7 +5323,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4901,7 +5332,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4912,7 +5343,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4921,7 +5352,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4932,7 +5363,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4941,7 +5372,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4952,7 +5383,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4961,7 +5392,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4972,7 +5403,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4981,7 +5412,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4992,7 +5423,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5001,7 +5432,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5012,7 +5443,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5021,7 +5452,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5032,7 +5463,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5041,7 +5472,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5052,7 +5483,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5061,7 +5492,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5072,7 +5503,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5081,7 +5512,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5092,7 +5523,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5101,7 +5532,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5112,7 +5543,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5121,7 +5552,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten $.
 <inserted text> }
                  
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5132,16 +5563,16 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.80 \ce{Fe_3O_4} &
+l.87 \ce{Fe_3O_4} &
                     - & 858 & 760 & 616 & 11.4  & 28.2 \\
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 36 strings out of 479418
- 709 string characters out of 5884586
- 257340 words of memory out of 5000000
- 17650 multiletter control sequences out of 15000+600000
+ 37 strings out of 479418
+ 717 string characters out of 5884586
+ 258340 words of memory out of 5000000
+ 17651 multiletter control sequences out of 15000+600000
  532362 words of font info for 27 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 19i,10n,19p,939b,135s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 19i,10n,19p,953b,198s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 No pages of output.
