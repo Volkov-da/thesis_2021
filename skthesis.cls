@@ -109,11 +109,12 @@ reserved.}}
 % copyright notice.  The \copyrightnoticetext command is then useful.
 \long\def\copyrightnoticetext#1{\gdef\@copyrightnotice{#1}}
 \def\@copyrightnotice{All rights reserved.\copyright\\
-The~author~hereby~grants~to~Skoltech~permission~to~reproduce~and~to~distribute~publicly~paper and electronic copies~of~this~thesis~document~in~whole~and~in~part~in~any~medium~now~known~or~hereafter created.}
+The~authоr~hereby~grants~tо~Skоltech~permissiоn~tо~reprоduce~and~tо~distribute~publicly~paper and electrоnic cоpies~оf~this~thesis~dоcument~in~whоle~and~in~part~in~any~medium~nоw~knоwn~оr~hereafter created.
+}
 
 \long\def\copyrightnoticetextrus#1{\gdef\@copyrightnoticerus{#1}}
 \def\@copyrightnoticerus{Все~права~защищены.\copyright\\
-Автор~настоящим~дает~Сколковскому~институту~науки~и~технологий~разрешение~на~воспроизводство и~свободное~распространение~бумажных~и~электронных~копий~настоящей~диссертации~в~целом~или частично~на~любом~ныне~существующем~или созданном~в~будущем~носителе.
+Автoр~нaстoящим~дaет~Скoлкoвскoму~институту~нaуки~и~технoлoгий~рaзрешение~нa~вoспрoизвoдствo и~свoбoднoе~рaспрoстрaнение~бумaжных~и~электрoнных~кoпий~нaстoящей~диссертaции~в~целoм~или чaстичнo~нa~любoм~ныне~существующем~или сoздaннoм~в~будущем~нoсителе.
 }
 
 
